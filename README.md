@@ -3,15 +3,16 @@
 &nbsp;
 &nbsp;
 
-## Welcome to our GitHub page!
+## Learn To Program Roanoke Blog
 
-*This is a work in progress*
+**Home** | [Arduboy](arduboy.md) | [micro:bit](microbit.md) | [Gatsby](gatsby.md)
 
-More information will be posted here.
+*This is a work in progress. Check back often for new projects and repositories.*
 
-### Markdown
+**March, 2019**
+Welcome to the new blog for Learn To Program, Roanoke! As new projects are developed,
+comments and suggestions will be added here along with the code over in the repositories.
 
-This page uses Markdown 
 
 ### Contact
 
