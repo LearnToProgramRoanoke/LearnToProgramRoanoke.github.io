@@ -10,6 +10,7 @@
 *This is a work in progress. Check back often for new projects and repositories.*
 
 **March, 2019**
+
 Welcome to the new blog for Learn To Program, Roanoke! As new projects are developed,
 comments and suggestions will be added here along with the code over in the repositories.
 
