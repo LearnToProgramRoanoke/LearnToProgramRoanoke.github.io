@@ -11,8 +11,8 @@
 
 **March, 2019**
 
-Welcome to the new blog for Learn To Program, Roanoke! As new projects are developed,
-comments and suggestions will be added here. The same code will be located in the repositories.
+Welcome to the new blog for Learn To Program, Roanoke! As projects are developed,
+comments and suggestions will be added here. The sample code will be located in the repositories.
 
 Thanks for visiting!
 
