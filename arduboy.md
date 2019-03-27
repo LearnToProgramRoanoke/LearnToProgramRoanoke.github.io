@@ -7,7 +7,7 @@
 
 [Home](README.md) | **Arduboy** | [micro:bit](microbit.md) | [Gatsby](gatsby.md)
 
-*This is a work in progress. Check back often for new projects and repositories.*
+*This is a work in progress. Check back often.*
 
 **March, 2019**
 
