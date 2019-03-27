@@ -5,7 +5,7 @@
 
 ## Learn micro:bit 
 
-[Home](README.md) | [Arduboy](arduboy.md) | **micro:bit** | **Gatsby**
+[Home](README.md) | [Arduboy](arduboy.md) | **micro:bit** | [Gatsby](gatsby.md)
 
 *This is a work in progress. Check back often*
 
