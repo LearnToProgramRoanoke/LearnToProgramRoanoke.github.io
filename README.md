@@ -20,3 +20,5 @@ Thanks for visiting!
 ### Contact
 
 Have a question about one of the projects? [E-mail](mailto:darrell@nokecodes.org)
+
+Proudly hosted on **GitHub** ![octocat_small](https://user-images.githubusercontent.com/16419894/27620843-839a2fa6-5b9a-11e7-9ebc-76a8e713b7f7.png)
