@@ -3,11 +3,11 @@
 &nbsp;
 &nbsp;
 
-## Learning Gatsby 
+## Learn Gatsby 
 
 [Home](README.md) | [Arduboy](arduboy.md) | [micro:bit](microbit.md) | **Gatsby**
 
-*This is a work in progress. Check back often*
+*This is a work in progress. Check back often.*
 
 **March, 2019**
 
