@@ -5,7 +5,7 @@
 
 ## Learn Arduboy
 
-[Home](README.md) | **Arduboy** | [micro:bit](microbit.md) | [Gatsby](gatsby.md)
+[Home](README.md) | **Arduboy** | [micro:bit](microbit.md) | [Python](python.md) | [Gatsby](gatsby.md)
 
 *This is a work in progress. Check back often.*
 
