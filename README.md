@@ -5,7 +5,7 @@
 
 ## Learn To Program Roanoke Blog
 
-**Home** | [Arduboy](arduboy.md) | [micro:bit](microbit.md) | [Gatsby](gatsby.md)
+**Home** | [Arduboy](arduboy.md) | [micro:bit](microbit.md) | [Python](python.md) | [Gatsby](gatsby.md)
 
 *This is a work in progress. Check back often for new projects and repositories.*
 
