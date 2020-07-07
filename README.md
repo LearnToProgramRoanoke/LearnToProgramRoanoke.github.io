@@ -7,7 +7,14 @@
 
 **Home** | [Arduboy](arduboy.md) | [micro:bit](microbit.md) | [Python](python.md) | [Gatsby](gatsby.md)
 
-*This is a work in progress. Check back often for new projects and repositories.*
+**June, 2020**
+
+Going into the second year of developing coding workshops, progress has been slow but steady.
+
+*Coming Soon*
+
+* Learn GitHub - an online workshop to learn the basics of code version control using Git.
+* Learn Flask - using Python to build web sites and applications
 
 **March, 2019**
 
